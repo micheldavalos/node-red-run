@@ -1,3 +1,3 @@
 ECHO ON
 ECHO Starting Node Red...
-start PowerShell.exe -Command "& node-red"
+start /min PowerShell.exe -Command "& node-red" --
